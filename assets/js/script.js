@@ -39,6 +39,10 @@ function checkAnswer() {
 
 }
 
+/**
+ * gets the operands (the numbers) and the operator (plus, minus etc)
+ * directly from the dom, and returns the correct answer.
+ */
 function calculateCorrectAnswer() {
 
 }
